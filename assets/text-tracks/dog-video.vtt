@@ -8,3 +8,12 @@ SLURP!
 
 00:00:05.500 --> 00:00:07.000
 [Girl Laughing]
+
+<video controls>
+    <source src="assets/videos/dog-video.mp4">
+    <track 
+        src="VTT_FILE_HERE"
+        kind="captions"
+        srclang="English"
+        label="English Captions" />
+</video>
